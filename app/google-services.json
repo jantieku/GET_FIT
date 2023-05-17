@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504855352483",
+    "firebase_url": "https://janet-s-fitness-app-default-rtdb.firebaseio.com",
+    "project_id": "janet-s-fitness-app",
+    "storage_bucket": "janet-s-fitness-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504855352483:android:7b8c179a44263e20799b16",
+        "android_client_info": {
+          "package_name": "com.example.fitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504855352483-jo1mn7a736113ebm96c3sjkta181sael.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4LXYM-HqSfnwEh4Wb0eZ2JLfN_JNhl58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504855352483-jo1mn7a736113ebm96c3sjkta181sael.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

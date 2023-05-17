@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button4">
+        <item name="android:text">20%</item>
+    </style>
+    <style name="button5">
+        <item name="android:text">70%</item>
+    </style>
+</resources>
